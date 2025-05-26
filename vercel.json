@@ -1,0 +1,9 @@
+{
+  "projects": [],
+  "build": {
+    "env": {},
+    "src": "browser-ui"
+  },
+  "rewrites": [],
+  "outputDirectory": null
+}
